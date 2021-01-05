@@ -32,7 +32,7 @@ E-Mail: gzn00417@outlook.com
 - **University of Cambridge Visiting** 2020.01-2020.02
 	- **Introduction:** Learning in AI including deep learning, auto-drive at Fitz William College.
 
-## Competition
+## Awards
 
 - MCM/ICM Finalist (Captain)——2020.03
 - National IoT Competition Special Award (Region), Third Award (Final) (Captain)——2020.08
@@ -46,7 +46,7 @@ E-Mail: gzn00417@outlook.com
 - HIT "Freshman Cup" Football Game Champion (Caption)——2018.10
 - Heilongjiang Province University Chess Championship Champion——2019.4
 
-## Awards
+## Reputation
 
 - School Outstanding CLP Member——2019
 - School Outstanding Student Cadre——2020
