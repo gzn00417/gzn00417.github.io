@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,5 +12,8 @@ redirect_from:
 
 Welcome to Zhuoning Guo's homepage!
 
-Here is my latest [CV]([CV - Zhuoning Guo (gzn00417.github.io)](https://gzn00417.github.io/cv/)).
+I'm an undergraduate at [Harbin Institute of Technology](http://www.hit.edu.cn/) from 2018. I was a research intern at [MSRA](https://www.msra.cn/) supervised by _Shizhao Sun_, and a research assistant at HIT-DBLab supervised by _Hongzhi Wang_.
 
+Currently, I'm looking for research internship and Ph.D. position.
+
+Here is my latest [CV](https://gzn00417.github.io/cv/).
