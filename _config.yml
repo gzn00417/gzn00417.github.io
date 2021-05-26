@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhuoning Guo"
 title_separator          : "-"
-name                     : &name "Zhuoning Guo 郭茁宁"
+name                     : &name "Zhuoning Guo"
 description              : &description "Undergraduate at HIT"
 url                      : https://gzn00417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuoning Guo"
+  name             : "Zhuoning Guo 郭茁宁"
   avatar           : "profile.png"
   bio              : "Undergraduate at HIT"
   location         : "Quanzhou, Fujian, China"
