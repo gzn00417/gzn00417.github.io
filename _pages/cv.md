@@ -11,7 +11,7 @@ redirect_from:
 
 Software Engineering, Faculty of Computing, Harbin Institute of Technology
 
-E-Mail: 1183710109@stu.hit.edu.cn; gzn00417@gmail.com
+E-Mail: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn); [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com)
 
 ## Education
 
@@ -71,4 +71,6 @@ E-Mail: 1183710109@stu.hit.edu.cn; gzn00417@gmail.com
 
 - English: CET-6 494 (2019.06), TOEFL 75 (2019.09)
 - Programming Language: C/C++, Python (Recently), Java, C#
+
+
 - Frameworks: PyTorch(-Lightning), Numpy, Scikit-Learn, Pandas, TensorFlow
