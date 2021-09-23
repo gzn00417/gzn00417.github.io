@@ -30,12 +30,6 @@ E-Mail: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn); [zhuoning.guo@gm
 - 2020.01-2020.02 University of Cambridge
   - Introduction: Winter campus with courses in deep learning at Fitz William College.
 
-## PUBLICATION
-
-- Zhaoyun Jiang, Zhuoning Guo, Shizhao Sun, et al. Hierarchy-Aware Generative Modeling of Graphic Layouts. Submitted to ICCV2021.
-- Wenyuan Kong, Zhaoyun Jiang, Zhuoning Guo, Shizhao Sun, et al. AesChecker: Suggesting Aesthetic Improvement via Exploring Design Principles and Human Preference. Submitted to VIS2021.
-- Zhuoning Guo, Yining Lin, Shengyang He. Persistence of Vision Fan Based on IoT. Published in Journal Internet of Things Technologies, Chinese Patent CN110969967A, Jan. 2020.
-
 ## AWARDS
 
 - 2020.03 Mathematical Contest in Modeling Finalist 1% (International, Captain)
