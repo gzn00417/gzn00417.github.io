@@ -86,9 +86,9 @@ author:
   location         : "Quanzhou, Fujian, China"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=jBd64WgAAAAJ&hl=en"
   email            : "zhuoning.guo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhuoning-Guo"
   uri              :
   bitbucket        :
   codepen          :

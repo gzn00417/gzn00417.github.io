@@ -11,7 +11,7 @@ redirect_from:
 
 Software Engineering, Faculty of Computing, Harbin Institute of Technology
 
-E-Mail: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn); [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com)
+E-Mail: [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com); [gzn00417@outlook.com](gzn00417@outlook.com)
 
 ## Education
 
@@ -21,12 +21,13 @@ E-Mail: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn); [zhuoning.guo@gm
 ## INTERNSHIPS
 
 - 2020.11-2021.04 Microsoft Research Asia (MSRA) DKI Group Research Intern
-  - Interests: Deep learning in computer vision and graphics (Mentor: Shizhao Sun, Jian-Guang Lou)
+  - Interests: Deep learning in computer vision and graphics (Mentor: Dr. Shizhao Sun, Dr. Jian-Guang Lou)
 - 2020.05-2021.07 HIT Massive Data Computing Center Research Assistant
   - Interests: Deep learning in knowledge graph embedding (Mentor: Prof. Hongzhi Wang)
 - 2021.06-2021.10 HKUST CSE & Tencent AI Lab Research Intern
-  - Interest: Social network diffusion prediction with graph neural network (Mentor: Prof. Jia Li, Dr. Yu Rong)
-- 2021.10-Now Baidu Research Vision Lab Research Intern
+  - Interest: Graph learning and social computing (Mentor: Prof. Jia Li, Dr. Yu Rong)
+- 2021.10-Now Baidu Research Research Intern
+  - Interest: Data mining and talent management (Mentor: Dr. Hengshu Zhu)
 
 ## VISITS
 
