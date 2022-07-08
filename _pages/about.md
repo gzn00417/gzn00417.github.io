@@ -10,13 +10,13 @@ redirect_from:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.github.io)
 
-Welcome to Zhuoning Guo (郭茁宁) 's homepage!
+Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm an incoming Ph.D. student at AI Thrust, Information Hub, [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu \(刘浩\)](https://raymondhliu.github.io/) and [Prof. Qiang Yang \(杨强\)](https://cse.hkust.edu.hk/~qyang/). Moreover, I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). My research interests includes data mining and federated learning.
+I'm an incoming Ph.D. student at AI Thrust, Information Hub, [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). Moreover, I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). My research interests includes data mining and federated learning.
 
 > HKUST(GZ) is a new campus of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) rather than an independent university, which is located in Guangzhou, China, and focusing on interdisciplinary research.
 
-Currently, I am a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Hui Xiong](http://datamining.rutgers.edu/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Before that, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://db.hit.edu.cn/) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang).
+Currently, I am a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Before that, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://db.hit.edu.cn/) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang). I also did research with [Prof. Jia Li](https://sites.google.com/view/lijia) and [Dr. Yu Rong](https://hk.linkedin.com/in/royrong).
 
 During my undergraduate life in HIT, I'm honored as the chairman of [HIT Massive Data Club](http://cs.hit.edu.cn/hlsjjlb/list.htm), captain of Football Team of Computing Faculty, HIT and president of HIT Chess Club.
 
