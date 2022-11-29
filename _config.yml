@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhuoning Guo"
 title_separator          : "-"
 name                     : &name "Zhuoning Guo"
-description              : &description "Undergraduate at HIT"
+description              : &description "PhD student at HKUST(GZ)"
 url                      : https://gzn00417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gzn00417/gzn00417.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhuoning Guo 郭茁宁"
   avatar           : "profile.png"
-  bio              : "Incoming PhD @HKUST | Research Intern @MSRA & @ Baidu | UG @HIT 22' | OIer"
+  bio              : "Incoming PhD @HKUST | Research Intern @MSRA & @Baidu | UG @HIT 22' | OIer"
   location         : "Quanzhou, Fujian, China"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=jBd64WgAAAAJ&hl=en"
   email            : "zhuoning.guo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhuoning-Guo"
   uri              :
   bitbucket        :
   codepen          :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
