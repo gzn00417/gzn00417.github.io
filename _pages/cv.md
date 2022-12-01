@@ -11,10 +11,14 @@ redirect_from:
 
 Software Engineering, Faculty of Computing, Harbin Institute of Technology
 
-E-Mail: [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com); [gzn00417@outlook.com](gzn00417@outlook.com)
+E-Mail: [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Official**); [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com); [gzn00417@outlook.com](gzn00417@outlook.com)
+
 > NOTE: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn) is unavailable after June 2022.
 
 ## Education
+
+- The Hong Kong University of Science and Technology (Guangzhou) (Ph.D. Student)
+  - 2022.09- AI Thrust, Information Hub
 
 - Harbin Institute of Technology (Undergraduate)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
