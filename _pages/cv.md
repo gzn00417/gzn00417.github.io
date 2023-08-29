@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Software Engineering, Faculty of Computing, Harbin Institute of Technology
-
 E-Mail: [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Official**); [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com); [gzn00417@outlook.com](gzn00417@outlook.com)
 
-> NOTE: [1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn) is unavailable after June 2022.
+> NOTE: ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
 
 ## Education
 
