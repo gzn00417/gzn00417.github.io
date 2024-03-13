@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-E-Mail: [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Official**); [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com); [gzn00417@outlook.com](gzn00417@outlook.com)
+E-Mail:
+- [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Official**)
+- [zhuoning.guo@connect.ust.hk](zhuoning.guo@connect.ust.hk) (**Official but Unstable**)
+- [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com) (**Personal**)
+- [gzn00417@outlook.com](gzn00417@outlook.com) (**Standby**)
 
 > NOTE: ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
 
@@ -29,13 +33,15 @@ E-Mail: [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Of
   - Interests: Deep learning in knowledge graph embedding (Mentor: Prof. Hongzhi Wang)
 - 2021.06-2021.10 HKUST CSE & Tencent AI Lab Research Intern
   - Interest: Graph learning and social computing (Mentor: Prof. Jia Li, Dr. Yu Rong)
-- 2021.10-Now Baidu Research Research Intern
+- 2021.10-2022.08 Baidu Research Research Intern
   - Interest: Data mining and talent management (Mentor: Dr. Hengshu Zhu)
 
 ## VISITS
 
 - 2020.01-2020.02 University of Cambridge
   - Introduction: Winter campus with courses in deep learning at Fitz William College.
+- 2024.01-Now KnowComp Group, HKUST, Visiting Student
+  - Interest: Federated learning and large language model (Supervisor: Prof. Yangqiu Song)
 
 ## AWARDS
 
