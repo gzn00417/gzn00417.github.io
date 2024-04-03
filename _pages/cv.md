@@ -19,10 +19,10 @@ E-Mail:
 
 ## Education
 
-- The Hong Kong University of Science and Technology (Guangzhou) (Ph.D. Student)
+- The Hong Kong University of Science and Technology, Guangzhou/Hong Kong SAR, China (PhD)
   - 2022.09- AI Thrust, Information Hub
 
-- Harbin Institute of Technology (Undergraduate)
+- Harbin Institute of Technology, Harbin, Heilongjiang, China (BEng)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
 
 ## INTERNSHIPS
