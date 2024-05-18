@@ -24,6 +24,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 # News
 
+- \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024**. Thanks for co-authors from HKUST(GZ) and HKUST.
 - \[2024.01\] I move from HKUST(GZ) to HKUST, Hong Kong SAR, China, to continue my Ph.D. study.
 - \[2023.12\] Our work on skill demand-supply joint prediction is accepted by **AAAI 2024**. Thanks for my co-authors from HKUSTGZ and Boss Inc.
 - \[2022.11\] Our work on human mobility modeling in COVID-19 is accepted by **AAAI 2023**. Thanks for my co-authors from HKUST and Tencent AI Lab!
@@ -38,6 +39,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 # Publications
 
+- **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu*. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* **(KDD 2024)**
 - Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu*, Hao Liu*. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* **(AAAI 2024 <u>Oral</u>)**
 - Yang Liu, Yu Rong, **Zhuoning Guo**, Nuo Chen, Tingyang Xu, Fugee Tsung, Jia Li. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax. *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence* **(AAAI 2023)**
 - **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* **(KDD 2022 <u>Oral</u>)**
