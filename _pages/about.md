@@ -32,11 +32,9 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - \[2022.06\] Our football team win the second place and achieve promotion in HIT Cup. Say goodbye to my football career as the captain of Football Team of Computing Faculty, HIT.
 - \[2022.05\] Our work on talent demand-supply joint prediction is accepted by **SIGKDD 2022**. Thanks for co-authors from HKUST, Baidu and USTC!
 - \[2022.02\] Our work on graphic design refining is accepted by **TVCG** (done during internship at MSRA). Thanks for co-authors from MSRA, PKU and XJTU.
-<details> <summary>More</summary>
-    - \[2021.10\] I join Baidu Research, Baidu Inc, as a research intern.
-    - \[2020.11\] I join Microsoft Research Asia as a research intern.
-    - \[2020.05\] I join Massive Data Computing Lab, HIT, as an undergraduate intern.
-</details>
+- \[2021.10\] I join Baidu Research, Baidu Inc, as a research intern.
+- \[2020.11\] I join Microsoft Research Asia as a research intern.
+- \[2020.05\] I join Massive Data Computing Lab, HIT, as an undergraduate intern.
 
 # Publications
 

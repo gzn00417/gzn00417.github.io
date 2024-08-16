@@ -17,9 +17,9 @@ E-Mail:
 
 > NOTE: ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
 
-## Education
+## Educations
 
-- The Hong Kong University of Science and Technology, Guangzhou/Hong Kong, China (PhD)
+- The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (PhD)
   - 2022.09- AI Thrust, Information Hub
 - Harbin Institute of Technology, Harbin, China (BEng)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
@@ -28,7 +28,7 @@ E-Mail:
 - Quanzhou No.1 Middle School, Quanzhou, China (Junior High School)
   - 2012.08-2015.06
 
-## INTERNSHIPS
+## Internships
 
 - 2021.10-2022.08 Baidu Research Research Intern
   - Interest: Data mining and talent management (Mentor: Dr. Hengshu Zhu)
@@ -39,14 +39,14 @@ E-Mail:
 - 2020.05-2021.07 HIT Massive Data Computing Center Research Assistant
   - Interests: Deep learning in knowledge graph embedding (Mentor: Prof. Hongzhi Wang)
 
-## VISITS
+## Visits
 
 - 2024.01-Now KnowComp Group, HKUST, Visiting Student
   - Interest: Federated learning and large language model (Supervisor: Prof. Yangqiu Song)
 - 2020.01-2020.02 University of Cambridge
   - Introduction: Winter campus with courses in deep learning at Fitz William College.
 
-## AWARDS
+## Awards
 
 - 2020.03 Mathematical Contest in Modeling Finalist 1% (International, Captain)
 - 2013.11 & 2016.11 NOIP First Award Top20 (2018 HIT Independent Recruitment Admission)
@@ -60,7 +60,7 @@ E-Mail:
 - 2018.10 HIT Freshman Cup Football Game Champion (Captain)
 - 2019.04 Heilongjiang Province University Chess Championship Champion
 
-## HONORS
+## Honors
 
 - 2019 University Outstanding CLP Member
 - 2020 University Outstanding Student Cadre
