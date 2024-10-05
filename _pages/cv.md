@@ -15,7 +15,9 @@ E-Mail:
 - [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com) (**Personal**)
 - [gzn00417@outlook.com](gzn00417@outlook.com) (**Standby**)
 
-> NOTE: ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
+> NOTE:
+> - ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
+> - [zhuoning.guo@connect.ust.hk](zhuoning.guo@connect.ust.hk) is unstable after September 2024.
 
 ## Educations
 
