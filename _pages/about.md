@@ -22,8 +22,8 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 # News
 
-- \[2024.08\] <font color='red'> New! </font> I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
-- \[2024.05\] <font color='red'> New! </font> Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024**. Thanks for co-authors from HKUST(GZ) and HKUST.
+- \[2024.08\] I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
+- \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024**. Thanks for co-authors from HKUST(GZ) and HKUST.
 - \[2024.01\] I move from HKUST(GZ) to HKUST, Hong Kong SAR, China, to continue my Ph.D. study.
 - \[2023.12\] Our work on skill demand-supply joint prediction is accepted by **AAAI 2024**. Thanks for my co-authors from HKUSTGZ and Boss Inc.
 - \[2022.11\] Our work on human mobility modeling in COVID-19 is accepted by **AAAI 2023**. Thanks for my co-authors from HKUST and Tencent AI Lab!
@@ -41,11 +41,11 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu\*. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu\*, Hao Liu\*. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
 - **[AAAI 2023]** Yang Liu, Yu Rong, **Zhuoning Guo**, Nuo Chen, Tingyang Xu, Fugee Tsung, Jia Li. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax. *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence*
-- **[Arxiv]** Zhuoning Guo, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
-- **[Arxiv]** Zhuoning Guo, Le Zhang, Hengshu Zhu, Weijia Zhang, Hui Xiong, Hao Liu\*. Labor Migration Modeling through Large-scale Job Query Data.
+- **[Arxiv]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
+- **[Arxiv]** **Zhuoning Guo**, Le Zhang, Hengshu Zhu, Weijia Zhang, Hui Xiong, Hao Liu\*. Labor Migration Modeling through Large-scale Job Query Data.
 - **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong\*. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[TVCG]** Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
 
 <a href="https://info.flagcounter.com/PELK"><img src="https://s11.flagcounter.com/map/PELK/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-> *The page is update at Oct. 5, 2024.*
+> *The page is update at Oct. 11, 2024.*
