@@ -11,13 +11,12 @@ redirect_from:
 
 E-Mail:
 - [zguo772@connect.hkust-gz.edu.cn](zguo772@connect.hkust-gz.edu.cn) (**Official**)
-- [zhuoning.guo@connect.ust.hk](zhuoning.guo@connect.ust.hk) (**Official but Unstable**)
 - [zhuoning.guo@gmail.com](zhuoning.guo@gmail.com) (**Personal**)
 - [gzn00417@outlook.com](gzn00417@outlook.com) (**Standby**)
 
 > NOTE:
 > - ~~[1183710109@stu.hit.edu.cn](1183710109@stu.hit.edu.cn)~~ is unavailable after June 2022.
-> - [zhuoning.guo@connect.ust.hk](zhuoning.guo@connect.ust.hk) is unstable after September 2024.
+> - ~~[zhuoning.guo@connect.ust.hk](zhuoning.guo@connect.ust.hk)~~ is unavailable after September 2024.
 
 ## Educations
 
