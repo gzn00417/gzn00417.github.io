@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgzn00417.github.io%2F&countColor=%23263759) -->
+#### Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
+I'm a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), at June, 2022. My research interests include graph learning, federated learning, large language model, and data mining.
 
-I'm a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), at June, 2022. My research interests include graph learning, federated learning, and large language model.
-
-I was a visiting student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Moreover, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), and a research assistant supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang). I also did research with [Prof. Jia Li](https://sites.google.com/view/lijia) and [Dr. Yu Rong](https://royrong.me/).
+I was a visiting student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At earlier years of undergraduate, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), an undergraduate intern supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang), and a research assistant supervised by [Prof. Jia Li](https://sites.google.com/view/lijia).
 
 During my undergraduate life in HIT, I'm honored as the chairman of [HIT Massive Data Club](http://cs.hit.edu.cn/hlsjjlb/list.htm), captain of Football Team of Computing Faculty, HIT and president of HIT Chess Club.
 
@@ -40,9 +38,9 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 - **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu\*. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning.
 - **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu\*. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
-- **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu\*, Hao Liu\*. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
 - **[Arxiv]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
 - **[Arxiv]** **Zhuoning Guo**, Le Zhang, Hengshu Zhu, Weijia Zhang, Hui Xiong, Hao Liu\*. Labor Migration Modeling through Large-scale Job Query Data.
+- **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu\*, Hao Liu\*. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
 - **[AAAI 2023]** Yang Liu, Yu Rong, **Zhuoning Guo**, Nuo Chen, Tingyang Xu, Fugee Tsung, Jia Li. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax. *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence*
 - **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong\*. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[TVCG]** Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
@@ -51,4 +49,8 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 <a href="https://info.flagcounter.com/PELK"><img src="https://s11.flagcounter.com/map/PELK/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-> *The page is update at Oct. 11, 2024.*
+> *Counting starts from March, 2024.*
+
+---
+
+> *The page is update at Nov. 11, 2024.*
