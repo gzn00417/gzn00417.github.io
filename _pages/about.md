@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-#### Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
+### Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), at June, 2022. My research interests include graph learning, federated learning, large language model, and data mining.
+I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), at June, 2022. My research interests include graph learning, federated learning, large language model, and data mining.
 
-I was a visiting student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At earlier years of undergraduate, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), an undergraduate intern supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang), and a research assistant supervised by [Prof. Jia Li](https://sites.google.com/view/lijia).
+I was a visiting student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At earlier years of undergraduate, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), a research assistant supervised by [Prof. Jia Li](https://sites.google.com/view/lijia), and an undergraduate intern supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang).
 
 During my undergraduate life in HIT, I'm honored as the chairman of [HIT Massive Data Club](http://cs.hit.edu.cn/hlsjjlb/list.htm), captain of Football Team of Computing Faculty, HIT and president of HIT Chess Club.
 
@@ -34,7 +34,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - \[2020.11\] I join Microsoft Research Asia as a research intern.
 - \[2020.05\] I join Massive Data Computing Lab, HIT, as an undergraduate intern.
 
-# Publications
+# Publications [(Google Scholar)](https://scholar.google.com/citations?user=jBd64WgAAAAJ)
 
 - **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu\*. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning.
 - **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu\*. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
@@ -48,9 +48,8 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 ---
 
 <a href="https://info.flagcounter.com/PELK"><img src="https://s11.flagcounter.com/map/PELK/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-> *Counting starts from March, 2024.*
+<div style="text-align: right;">Counting starts from March, 2024.</div>
 
 ---
 
-> *The page is update at Nov. 11, 2024.*
+> *The page is update at Dec. 3, 2024.*
