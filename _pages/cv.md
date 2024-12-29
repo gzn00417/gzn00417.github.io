@@ -49,8 +49,8 @@ E-Mail:
 
 ## Awards
 
+- 2013.11 & 2016.11 NOIP First Prize Top20 (2018 HIT Independent Recruitment Admission)
 - 2020.03 Mathematical Contest in Modeling Finalist 1% (International, Captain)
-- 2013.11 & 2016.11 NOIP First Award Top20 (2018 HIT Independent Recruitment Admission)
 - 2020.08 National IoT Competition Special Award (Region), Third Award (Final, Captain)
 - 2019.12-2020.01 Kaggle Competition: Machine Learning from Disaster 6%
 - 2019.10 National Computer Capability Challenge of University First Award Top17 (Final)

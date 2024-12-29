@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
+# Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/), at June, 2022. My research interests include graph learning, federated learning, large language model, and data mining.
+I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Hao Liu (刘浩)](https://raymondhliu.github.io/) and [Prof. Qiang Yang (杨强)](https://cse.hkust.edu.hk/~qyang/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include data mining, large language model, and multi-modal learning.
 
-I was a visiting student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At earlier years of undergraduate, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), a research assistant supervised by [Prof. Jia Li](https://sites.google.com/view/lijia), and an undergraduate intern supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang).
+I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Yangqiu Song](https://cse.hkust.edu.hk/~yqsong/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/) and [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At earlier years of undergraduate, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/), supervised by [Dr. Shizhao Sun](https://scholar.google.com/citations?user=6tdI2m0AAAAJ&hl=zh-CN&oi=ao), and a research assistant at HKUST supervised by [Prof. Jia Li](https://sites.google.com/view/lijia).
 
-During my undergraduate life in HIT, I'm honored as the chairman of [HIT Massive Data Club](http://cs.hit.edu.cn/hlsjjlb/list.htm), captain of Football Team of Computing Faculty, HIT and president of HIT Chess Club.
+In junior and senior high school, I spent years on [National Olympiad in Informatics~(NOI)](https://www.noi.cn/) and won twice First Prize in Fujian Province. The competition awards support me to get early admission from Independent Recruitment of HIT in 2018.
 
 Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
+
+> <span style="color: red;">I am open to Research Internships in 2025. If you have any opportunities, please do not hesitate to contact me!</span>
 
 # News
 
@@ -36,13 +38,13 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 # Publications [(Google Scholar)](https://scholar.google.com/citations?user=jBd64WgAAAAJ)
 
-- **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu\*. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning.
-- **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu\*. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
-- **[Arxiv]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
-- **[Arxiv]** **Zhuoning Guo**, Le Zhang, Hengshu Zhu, Weijia Zhang, Hui Xiong, Hao Liu\*. Labor Migration Modeling through Large-scale Job Query Data.
-- **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu\*, Hao Liu\*. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
+- **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning.
+- **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Duanyi Yao, Qiang Yang, Hao Liu. HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning. *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+- **[Arxiv]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
+- **[Arxiv]** **Zhuoning Guo**, Le Zhang, Hengshu Zhu, Weijia Zhang, Hui Xiong, Hao Liu. Labor Migration Modeling through Large-scale Job Query Data.
+- **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu, Hao Liu. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
 - **[AAAI 2023]** Yang Liu, Yu Rong, **Zhuoning Guo**, Nuo Chen, Tingyang Xu, Fugee Tsung, Jia Li. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax. *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence*
-- **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu\*, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong\*. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+- **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[TVCG]** Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
 
 ---
@@ -52,4 +54,4 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 ---
 
-> *The page is update at Dec. 3, 2024.*
+> *The page is update at Dec. 29, 2024.*
