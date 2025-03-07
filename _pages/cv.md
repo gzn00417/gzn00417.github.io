@@ -25,7 +25,7 @@ E-Mail:
 ## Educations
 
 - The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (PhD)
-  - 2022.09- AI Thrust, Information Hub
+  - 2022.09- AI Thrust, Information Hub (Supervisor: Prof. Hao Liu, Prof. Qiang Yang)
 - Harbin Institute of Technology, Harbin, China (BEng)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
 - Fuzhou No.1 Middle School, Fuzhou, China (Senior High School)
@@ -35,18 +35,20 @@ E-Mail:
 
 ## Internships
 
-- 2021.10-2022.08 Baidu Research Research Intern
+- 2024.05-2025.01 Baidu Recommendation Architecture Department - Research Intern
+  - Interest: Web-scale recommendation, information retrieval, and graph search
+- 2021.10-2022.08 Baidu Research - Research Intern
   - Interest: Data mining and talent management (Mentor: Dr. Hengshu Zhu)
-- 2021.06-2021.10 HKUST & Tencent Remote Research Intern
+- 2021.06-2021.10 HKUST & Tencent - Remote Research Intern
   - Interest: Graph learning and social computing (Mentor: Prof. Jia Li, Dr. Yu Rong)
-- 2020.11-2021.04 Microsoft Research Asia (MSRA) DKI Group Research Intern
+- 2020.11-2021.04 Microsoft Research Asia (MSRA) DKI Group - Research Intern
   - Interests: Deep learning in computer vision and graphics (Mentor: Dr. Shizhao Sun, Dr. Jian-Guang Lou)
-- 2020.05-2021.07 HIT Massive Data Computing Center Research Assistant
+- 2020.05-2021.07 HIT Massive Data Computing Center - Research Assistant
   - Interests: Deep learning in knowledge graph embedding (Mentor: Prof. Hongzhi Wang)
 
 ## Visits
 
-- 2024.01-Now KnowComp Group, HKUST, Visiting Student
+- 2024.01-2024.08 KnowComp Group, HKUST, Visiting Student
   - Interest: Federated learning and large language model (Supervisor: Prof. Yangqiu Song)
 - 2020.01-2020.02 University of Cambridge
   - Introduction: Winter campus with courses in deep learning at Fitz William College.
