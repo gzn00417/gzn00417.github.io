@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include information retrieval, multimodal large language models, and graph learning.
+I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include information retrieval, large multimodal models, and graph learning.
 
 Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), Alibaba. Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/) and [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment). At earlier years of undergraduate, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
@@ -21,6 +21,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 # News
 
+- \[2025.03\] I join NLP Group, Tongyi Lab, Alibaba Cloud, as a research intern, focusing on improving multimodal embedding for [Qwen](https://qwenlm.github.io/) model series.
 - \[2025.02\] Our work on labor migration modeling is accepted by **PAKDD 2025 (Oral)**. Thanks for my co-authors from HKUST(GZ), Baidu, and CAS.
 - \[2024.08\] I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
 - \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024 (Oral)**. Thanks for my co-authors from HKUST(GZ) and HKUST.
@@ -47,7 +48,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - **[Arxiv]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting.
 - **[AAAI 2024 <u>Oral</u>]** Wen Shuo Chao, Zhaopeng Qiu, Likang Wu, **Zhuoning Guo**, Zhi Zheng, Hengshu Zhu, Hao Liu. A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction. *Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence*
 - **[AAAI 2023]** Yang Liu, Yu Rong, **Zhuoning Guo**, Nuo Chen, Tingyang Xu, Fugee Tsung, Jia Li. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax. *Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence*
-- **[KDD 2024 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+- **[KDD 2022 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[TVCG]** Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
 
 ---
@@ -57,4 +58,4 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 ---
 
-> *The page is update at Mar. 7, 2025.*
+> *The page is update at Mar. 16, 2025.*
