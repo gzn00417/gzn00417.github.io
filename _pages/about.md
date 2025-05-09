@@ -10,11 +10,11 @@ redirect_from:
 
 ## Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include information retrieval, large multimodal models, and graph learning.
+I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include information retrieval, multimodal LLMs, and graph learning.
 
-Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), Alibaba. Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/) and [Baidu Talent Intelligence Center](https://ai.baidu.com/solution/recruitment). At earlier years of undergraduate, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/).
+Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba](https://www.alibabagroup.com/). Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/). At earlier years of undergraduate, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
-In junior and senior high school, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province. The competition awards support me to get early admission from Independent Recruitment of HIT in 2018.
+For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honor to obtain early admission from Independent Recruitment of HIT in 2018.
 
 Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
@@ -58,4 +58,4 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 ---
 
-> *The page is update at Mar. 16, 2025.*
+> *The page is update at May 9th, 2025.*
