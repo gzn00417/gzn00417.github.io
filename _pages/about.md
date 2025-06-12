@@ -10,18 +10,20 @@ redirect_from:
 
 ## Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-I'm currently a $3^{rd}$-year Ph.D. student at [AI Thrust](https://infh.hkust-gz.edu.cn/en/academics/ai), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My research interests include information retrieval, multimodal LLMs, and graph learning.
+I'm currently a $3^{rd}$-year Ph.D. student at [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My current research interests include representation learning, multimodal LLM, information retrieval.
 
-Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba](https://www.alibabagroup.com/). Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/). At earlier years of undergraduate, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/).
+Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba](https://www.alibabagroup.com/). Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honor to obtain early admission from Independent Recruitment of HIT in 2018.
 
-Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
+See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [pdf file](https://gzn00417.github.io/files/CV-GuoZhuoning-20250509.pdf) for more information.
 
 
 # News
 
-- \[2025.03\] I join NLP Group, Tongyi Lab, Alibaba Cloud, as a research intern, focusing on improving multimodal embedding for [Qwen](https://qwenlm.github.io/) model series.
+- \[2025.06\] I am honored as **Outstanding Reviewer** of **SIGKDD 2025** and invited as a **Session Chair**.
+- \[2025.06\] Congrats to our team for releasing [Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding), the state-of-the-art text embedding and reranking models.
+- \[2025.03\] I join Tongyi Lab as a research intern, focusing on improving multimodal embedding for [Qwen](https://qwenlm.github.io/) model series.
 - \[2025.02\] Our work on labor migration modeling is accepted by **PAKDD 2025 (Oral)**. Thanks for my co-authors from HKUST(GZ), Baidu, and CAS.
 - \[2024.08\] I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
 - \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024 (Oral)**. Thanks for my co-authors from HKUST(GZ) and HKUST.
@@ -37,6 +39,7 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - \[2020.11\] I join Microsoft Research Asia as a research intern.
 - \[2020.05\] I join Massive Data Computing Lab, HIT, as an undergraduate intern.
 
+
 # Publications
 
 > Full list is at [(Google Scholar)](https://scholar.google.com/citations?user=jBd64WgAAAAJ).
@@ -51,6 +54,16 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 - **[KDD 2022 <u>Oral</u>]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning. *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 - **[TVCG]** Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, **Zhuoning Guo**, Weiwei Cui, Ting Liu, Jian-Guang Lou, Dongmei Zhang. Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference. *IEEE Transactions on Visualization & Computer Graphics*
 
+
+# Services
+
+- Session Chair of SIGKDD 2025
+- Reviewer of SIGKDD (Outstanding), NeurIPS, WebConf, IJCAI and ICDM conferences
+- Reviewer of TOIS and Information Science journals
+- Teaching Assistant of AIAA 5028 Machine Learning on Graphs at HKUST(GZ)
+- Chair of Academic Club of MassiveDataLab, President of Chess Club, Captain of Football Team of CS Dept. at HIT
+
+
 ---
 
 <a href="https://info.flagcounter.com/PELK"><img src="https://s11.flagcounter.com/map/PELK/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
@@ -58,4 +71,4 @@ Here is my latest [curriculum vitae](https://gzn00417.github.io/cv/).
 
 ---
 
-> *The page is update at May 9th, 2025.*
+> *The page is update at June 12th, 2025.*
