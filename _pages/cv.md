@@ -25,7 +25,7 @@ E-Mail:
 ## Educations
 
 - The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (PhD)
-  - 2022.09- AI Thrust, Information Hub (Supervisor: Prof. Hao Liu, Prof. Qiang Yang)
+  - 2022.09- AI Thrust, Information Hub (Supervisor: Prof. Xiaowen Chu)
 - Harbin Institute of Technology, Harbin, China (BEng)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
 - Fuzhou No.1 Middle School, Fuzhou, China (Senior High School)
