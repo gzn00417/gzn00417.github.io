@@ -10,7 +10,15 @@ redirect_from:
 
 ## Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
+<<<<<<< HEAD
 I'm currently a $4^{th}$-year Ph.D. student at [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My current research interests include multimodal LLM and information retrieval.
+=======
+<<<<<<< HEAD
+I'm currently a $4^{th}$-year Ph.D. student at [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My current research interests include multimodal LLM and information retrieval.
+=======
+I'm currently a $4^{rd}$-year Ph.D. student at [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022. My current research interests include multimodal LLM and information retrieval.
+>>>>>>> 3e21cb7369b448955136ed91833c704a66ea5ff9
+>>>>>>> 5cec5153ca795a9b178421ecd93a7fe8ae50d5b0
 
 Now, I'm a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba](https://www.alibabagroup.com/). Previously, I was a visiting student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
