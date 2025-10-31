@@ -11,6 +11,8 @@ redirect_from:
 
 ## Full CV [[pdf]](https://gzn00417.github.io/files/CV-GuoZhuoning-20250509.pdf)
 
+> Updated at May 9th, 2025
+
 ## Contact
 
 E-Mail:
@@ -25,7 +27,7 @@ E-Mail:
 ## Educations
 
 - The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (PhD)
-  - 2022.09- AI Thrust, Information Hub (Supervisor: Prof. Xiaowen Chu)
+  - 2022.09- AI Thrust, Information Hub (Supervisor: Prof. Xiaowen Chu, Prof. Renjing Xu)
 - Harbin Institute of Technology, Harbin, China (BEng)
   - 2018.08-2022.06 Software Engineering, Faculty of Computing
 - Fuzhou No.1 Middle School, Fuzhou, China (Senior High School)
