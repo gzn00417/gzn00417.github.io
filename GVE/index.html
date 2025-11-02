@@ -5,59 +5,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <!-- Primary Meta Tags -->
-  <!-- TODO: Replace with your paper title and author names -->
   <meta name="title" content="Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum">
-  <!-- TODO: Write a compelling 150-160 character description of your research -->
-  <meta name="description" content="">
-  <!-- TODO: Add 5-10 relevant keywords for your research area -->
-  <meta name="keywords" content="">
-  <!-- TODO: List all authors -->
-  <meta name="author" content="Zhuoning Guo">
+  <meta name="description" content="We propose a framework for universal video retrieval, featuring the UVRB benchmark, synthesized training data (1.55M pairs), and the Modality Pyramid curriculum. GVE achieves state-of-the-art zero-shot generalization across 16 datasets and 9 retrieval abilities.">
+  <meta name="keywords" content="Video Retrieval, Multimodal Large Language Models, Video Embedding">
+  <meta name="author" content="Zhuoning Guo, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Xiaowen Chu">
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article">
-  <!-- TODO: Replace with your institution or lab name -->
-  <meta property="og:site_name" content="INSTITUTION_OR_LAB_NAME">
-  <!-- TODO: Same as paper title above -->
-  <meta property="og:title" content="PAPER_TITLE">
-  <!-- TODO: Same as description above -->
-  <meta property="og:description" content="BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS">
-  <!-- TODO: Replace with your actual website URL -->
-  <meta property="og:url" content="https://YOUR_DOMAIN.com/YOUR_PROJECT_PAGE">
-  <!-- TODO: Create a 1200x630px preview image and update path -->
-  <meta property="og:image" content="https://YOUR_DOMAIN.com/static/images/social_preview.png">
+  <meta property="og:site_name" content="HKUST(GZ) & Tongyi Lab">
+  <meta property="og:title" content="Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum">
+  <meta property="og:description" content="We propose a framework for universal video retrieval, featuring the UVRB benchmark, synthesized training data (1.55M pairs), and the Modality Pyramid curriculum. GVE achieves state-of-the-art zero-shot generalization across 16 datasets and 9 retrieval abilities.">
+  <meta property="og:url" content="https://gzn00417.github.io/GVE">
+  <meta property="og:image" content="https://gzn00417.github.io/GVE/static/images/Tongyi.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="PAPER_TITLE - Research Preview">
-  <meta property="article:published_time" content="2024-01-01T00:00:00.000Z">
-  <meta property="article:author" content="FIRST_AUTHOR_NAME">
+  <meta property="og:image:alt" content="General Video Embedder (GVE) - Universal Video Retrieval">
+  <meta property="article:published_time" content="2025-10-31T00:00:00.000Z">
+  <meta property="article:author" content="Zhuoning Guo">
   <meta property="article:section" content="Research">
-  <meta property="article:tag" content="KEYWORD1">
-  <meta property="article:tag" content="KEYWORD2">
+  <meta property="article:tag" content="Video Retrieval">
+  <meta property="article:tag" content="Multimodal Large Language Models">
+  <meta property="article:tag" content="Video Embedding">
 
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <!-- TODO: Replace with your lab/institution Twitter handle -->
-  <meta name="twitter:site" content="@YOUR_TWITTER_HANDLE">
-  <!-- TODO: Replace with first author's Twitter handle -->
-  <meta name="twitter:creator" content="@AUTHOR_TWITTER_HANDLE">
-  <!-- TODO: Same as paper title above -->
-  <meta name="twitter:title" content="PAPER_TITLE">
-  <!-- TODO: Same as description above -->
-  <meta name="twitter:description" content="BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS">
-  <!-- TODO: Same as social preview image above -->
-  <meta name="twitter:image" content="https://YOUR_DOMAIN.com/static/images/social_preview.png">
-  <meta name="twitter:image:alt" content="PAPER_TITLE - Research Preview">
+  <!-- Twitter Card removed (no account) -->
 
   <!-- Academic/Research Specific -->
-  <meta name="citation_title" content="PAPER_TITLE">
-  <meta name="citation_author" content="FIRST_AUTHOR_LAST, FIRST_AUTHOR_FIRST">
-  <meta name="citation_author" content="SECOND_AUTHOR_LAST, SECOND_AUTHOR_FIRST">
-  <meta name="citation_publication_date" content="2024">
-  <meta name="citation_conference_title" content="CONFERENCE_NAME">
-  <meta name="citation_pdf_url" content="https://YOUR_DOMAIN.com/static/pdfs/paper.pdf">
+  <meta name="citation_title" content="Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum">
+  <meta name="citation_author" content="Guo, Zhuoning">
+  <meta name="citation_author" content="Li, Mingxin">
+  <meta name="citation_author" content="Zhang, Yanzhao">
+  <meta name="citation_author" content="Long, Dingkun">
+  <meta name="citation_author" content="Xie, Pengjun">
+  <meta name="citation_author" content="Chu, Xiaowen">
+  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_pdf_url" content="https://gzn00417.github.io/GVE/static/pdfs/arXiv_GVE.pdf">
   
   <!-- Additional SEO -->
   <meta name="theme-color" content="#2563eb">
@@ -72,8 +55,6 @@
   <link rel="preconnect" href="https://documentcloud.adobe.com">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
 
-
-  <!-- TODO: Replace with your paper title and authors -->
   <title>General Video Embedder (GVE) - Zhuoning Guo et al. | HKUST(GZ) & Tongyi Lab</title>
   
   <!-- Favicon and App Icons -->
@@ -107,6 +88,12 @@
   <script defer src="static/js/fontawesome.all.min.js"></script>
   <script defer src="static/js/bulma-carousel.min.js"></script>
   <script defer src="static/js/bulma-slider.min.js"></script>
+  <!-- Add scrollToTop function definition -->
+  <script>
+    function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
   <script defer src="static/js/index.js"></script>
   
   <!-- Structured Data for Academic Papers -->
@@ -114,51 +101,82 @@
   {
     "@context": "https://schema.org",
     "@type": "ScholarlyArticle",
-    "headline": "PAPER_TITLE",
-    "description": "BRIEF_DESCRIPTION_OF_YOUR_RESEARCH_CONTRIBUTION_AND_FINDINGS",
+    "headline": "Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum",
+    "description": "We propose a co-designed framework for universal video retrieval, featuring the UVRB benchmark, synthesized training data (1.55M pairs), and the Modality Pyramid curriculum. GVE achieves state-of-the-art zero-shot generalization across 16 datasets and 9 retrieval abilities.",
     "author": [
       {
         "@type": "Person",
-        "name": "FIRST_AUTHOR_NAME",
+        "name": "Zhuoning Guo",
+        "affiliation": [
+          {
+            "@type": "Organization",
+            "name": "AI Thrust, HKUST(GZ)"
+          },
+          {
+            "@type": "Organization",
+            "name": "Tongyi Lab, Alibaba Group"
+          }
+        ]
+      },
+      {
+        "@type": "Person",
+        "name": "Mingxin Li",
         "affiliation": {
           "@type": "Organization",
-          "name": "INSTITUTION_NAME"
+          "name": "Tongyi Lab, Alibaba Group"
         }
       },
       {
         "@type": "Person",
-        "name": "SECOND_AUTHOR_NAME",
+        "name": "Yanzhao Zhang",
         "affiliation": {
           "@type": "Organization",
-          "name": "INSTITUTION_NAME"
+          "name": "Tongyi Lab, Alibaba Group"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Dingkun Long",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Tongyi Lab, Alibaba Group"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Pengjun Xie",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Tongyi Lab, Alibaba Group"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Xiaowen Chu",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "AI Thrust, HKUST(GZ)"
         }
       }
     ],
-    "datePublished": "2024-01-01",
+    "datePublished": "2025-10-31",
     "publisher": {
       "@type": "Organization",
-      "name": "CONFERENCE_OR_JOURNAL_NAME"
+      "name": "arXiv"
     },
-    "url": "https://YOUR_DOMAIN.com/YOUR_PROJECT_PAGE",
-    "image": "https://YOUR_DOMAIN.com/static/images/social_preview.png",
-    "keywords": ["KEYWORD1", "KEYWORD2", "KEYWORD3", "machine learning", "computer vision"],
-    "abstract": "FULL_ABSTRACT_TEXT_HERE",
-    "citation": "BIBTEX_CITATION_HERE",
+    "url": "https://gzn00417.github.io/GVE",
+    "image": "https://gzn00417.github.io/GVE/static/images/Tongyi.png",
+    "keywords": ["Video Retrieval", "Multimodal Large Language Models", "Video Embedding", "zero-shot generalization", "curriculum learning"],
+    "abstract": "The prevailing video retrieval paradigm is structurally misaligned, as narrow benchmarks incentivize correspondingly limited data and single-task training. Therefore, universal capability is suppressed due to the absence of a diagnostic evaluation that defines and demands multi-dimensional generalization. To break this cycle, we introduce a framework built on the co-design of evaluation, data, and modeling. First, we establish the Universal Video Retrieval Benchmark (UVRB), a suite of 16 datasets designed not only to measure performance but also to diagnose critical capability gaps across tasks and domains. Second, guided by UVRB's diagnostics, we introduce a scalable synthesis workflow that generates 1.55 million high-quality pairs to populate the semantic space required for universality. Finally, we devise the Modality Pyramid, a curriculum that trains our General Video Embedder (GVE) by explicitly leveraging the latent interconnections within our diverse data. Extensive experiments show GVE achieves state-of-the-art zero-shot generalization on UVRB. In particular, our analysis reveals that popular benchmarks are poor predictors of general ability and that partially relevant retrieval is a dominant but overlooked scenario. Overall, our co-designed framework provides a practical path to escape the limited scope and advance toward truly universal video retrieval.",
     "isAccessibleForFree": true,
     "license": "https://creativecommons.org/licenses/by/4.0/",
     "mainEntity": {
       "@type": "WebPage",
-      "@id": "https://YOUR_DOMAIN.com/YOUR_PROJECT_PAGE"
+      "@id": "https://gzn00417.github.io/GVE"
     },
     "about": [
-      {
-        "@type": "Thing",
-        "name": "RESEARCH_AREA_1"
-      },
-      {
-        "@type": "Thing", 
-        "name": "RESEARCH_AREA_2"
-      }
+      { "@type": "Thing", "name": "Video Retrieval" },
+      { "@type": "Thing", "name": "Multimodal Learning" }
     ]
   }
   </script>
@@ -168,18 +186,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "INSTITUTION_OR_LAB_NAME",
-    "url": "https://YOUR_INSTITUTION_WEBSITE.com",
-    "logo": "https://YOUR_DOMAIN.com/static/images/favicon.ico",
-    "sameAs": [
-      "https://twitter.com/YOUR_TWITTER_HANDLE",
-      "https://github.com/YOUR_GITHUB_USERNAME"
-    ]
+    "name": "HKUST(GZ) & Tongyi Lab",
+    "url": "https://gzn00417.github.io/GVE",
+    "logo": "https://gzn00417.github.io/GVE/static/images/favicon.ico"
   }
   </script>
 </head>
 <body>
-
 
   <!-- Scroll to Top Button -->
   <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
@@ -192,10 +205,8 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <!-- TODO: Replace with your paper title -->
             <h1 class="title is-1 publication-title">Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum</h1>
             <div class="is-size-5 publication-authors">
-              <!-- TODO: Replace with your paper authors and their personal links -->
               <span class="author-block"><a href="https://gzn00417.github.io/" target="_blank">Zhuoning Guo</a><sup>1,2</sup>,</span>
               <span class="author-block"><a href="https://openreview.net/profile?id=%7EMingxin_Li2" target="_blank">Mingxin Li</a><sup>2</sup>,</span>
               <span class="author-block"><a href="https://scholar.google.com/citations?user=BEDO5qMAAAAJ" target="_blank">Yanzhao Zhang</a><sup>2</sup>,</span>
@@ -204,36 +215,34 @@
               <span class="author-block"><a href="https://sites.google.com/view/chuxiaowen/" target="_blank">Xiaowen Chu</a><sup>1*</sup></span>
             </div>
 
-                  <div class="is-size-5 publication-authors">
-                    <!-- TODO: Replace with your institution and conference/journal info -->
-                    <span class="author-block"><sup>1</sup> AI Thrust, HKUST(GZ), <sup>2</sup> Tongyi Lab, Alibaba Group</span>
-                    <!-- TODO: Remove this line if no equal contribution -->
-                    <span class="eql-cntrb"><small><br><sup>*</sup>Indicates corresponding author</small></span>
-                  </div>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup> AI Thrust, HKUST(GZ), <sup>2</sup> Tongyi Lab, Alibaba Group</span>
+              <span class="eql-cntrb"><small><br><sup>*</sup>Indicates corresponding author</small></span>
+            </div>
 
-                  <!-- TODO: Update with your arXiv paper ID -->
-                  <span class="link-block">
-                    <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="ai ai-arxiv"></i>
-                    </span>
-                    <span>arXiv</span>
-                  </a>
+            <!-- PDF Button (arXiv not available yet) -->
+            <span class="link-block">
+              <a href="static/pdfs/arXiv_GVE.pdf" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fas fa-file-pdf"></i>
                 </span>
+                <span>PDF</span>
+              </a>
+            </span>
 
-                <span class="link-block">
-                  <a href="https://huggingface.co/Alibaba-NLP/GVE-3B" target="_blank"
-                  class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                    <img src="static/images/hf.svg" alt="HuggingFace" width="20" height="20"> 
-                  </span>
-                  <span>Model (GVE-3B)</span>
-                </a>
-              </span>
+            <span class="link-block">
+              <a href="https://huggingface.co/Alibaba-NLP/GVE-3B" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <img src="static/images/hf.svg" alt="HuggingFace" width="20" height="20"> 
+                </span>
+                <span>Model (GVE-3B)</span>
+              </a>
+            </span>
 
-              <span class="link-block">
-                <a href="https://huggingface.co/Alibaba-NLP/GVE-7B" target="_blank"
+            <span class="link-block">
+              <a href="https://huggingface.co/Alibaba-NLP/GVE-7B" target="_blank"
                 class="external-link button is-normal is-rounded is-dark">
                 <span class="icon">
                   <img src="static/images/hf.svg" alt="HuggingFace" width="20" height="20"> 
@@ -242,117 +251,112 @@
               </a>
             </span>
 
-                    <!-- TODO: Add your supplementary material PDF or remove this section -->
-                    <span class="link-block">
-                      <a href="https://huggingface.co/Alibaba-NLP/UVRB" target="_blank"
-                      class="external-link button is-normal is-rounded is-dark">
-                      <span class="icon">
-                        <i class="fas fa-database"></i>
-                      </span>
-                      <span>Data (UVRB)</span>
-                    </a>
-                  </span>
+            <span class="link-block">
+              <a href="https://huggingface.co/Alibaba-NLP/UVRB" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fas fa-database"></i>
+                </span>
+                <span>Data (UVRB)</span>
+              </a>
+            </span>
 
-            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <img src="static/images/uvr.png" loading="lazy"/>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="static/images/uvr.png" loading="lazy"/>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Paper abstract -->
-<section class="section hero is-light">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Abstract</h2>
-        <div class="content has-text-justified">
-          <!-- TODO: Replace with your paper abstract -->
-          <p>
-            The prevailing video retrieval paradigm is structurally misaligned, as narrow benchmarks incentivize correspondingly limited data and single-task training. Therefore, universal capability is suppressed due to the absence of a diagnostic evaluation that defines and demands multi-dimensional generalization. To break this cycle, we introduce a framework built on the co-design of evaluation, data, and modeling. First, we establish the Universal Video Retrieval Benchmark (UVRB), a suite of 16 datasets designed not only to measure performance but also to diagnose critical capability gaps across tasks and domains. Second, guided by UVRB's diagnostics, we introduce a scalable synthesis workflow that generates 1.55 million high-quality pairs to populate the semantic space required for universality. Finally, we devise the Modality Pyramid, a curriculum that trains our General Video Embedder (GVE) by explicitly leveraging the latent interconnections within our diverse data. Extensive experiments show GVE achieves state-of-the-art zero-shot generalization on UVRB. In particular, our analysis reveals that popular benchmarks are poor predictors of general ability and that partially relevant retrieval is a dominant but overlooked scenario. Overall, our co-designed framework provides a practical path to escape the limited scope and advance toward truly universal video retrieval.
-          </p>
+  <!-- Paper abstract -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              The prevailing video retrieval paradigm is structurally misaligned, as narrow benchmarks incentivize correspondingly limited data and single-task training. Therefore, universal capability is suppressed due to the absence of a diagnostic evaluation that defines and demands multi-dimensional generalization. To break this cycle, we introduce a framework built on the co-design of evaluation, data, and modeling. First, we establish the Universal Video Retrieval Benchmark (UVRB), a suite of 16 datasets designed not only to measure performance but also to diagnose critical capability gaps across tasks and domains. Second, guided by UVRB's diagnostics, we introduce a scalable synthesis workflow that generates 1.55 million high-quality pairs to populate the semantic space required for universality. Finally, we devise the Modality Pyramid, a curriculum that trains our General Video Embedder (GVE) by explicitly leveraging the latent interconnections within our diverse data. Extensive experiments show GVE achieves state-of-the-art zero-shot generalization on UVRB. In particular, our analysis reveals that popular benchmarks are poor predictors of general ability and that partially relevant retrieval is a dominant but overlooked scenario. Overall, our co-designed framework provides a practical path to escape the limited scope and advance toward truly universal video retrieval.
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-<!-- End paper abstract -->
+  </section>
+  <!-- End paper abstract -->
 
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <div class="hero-body">
-      <img src="static/images/uvrb_radar.jpg" loading="lazy"/>
-      <h2 class="subtitle is-9 has-text-centered">
-        Model performance on UVRB for 16 datasets and 9 abilities (3 main tasks and 6 (sub-) domains).
-      </h2>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="static/images/uvrb_radar.jpg" loading="lazy"/>
+        <h2 class="subtitle is-9 has-text-centered">
+          Model performance on UVRB for 16 datasets and 9 abilities (3 main tasks and 6 (sub-) domains).
+        </h2>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="section hero is-light">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Methodology</h2>
-        <div class="content has-text-justified">
-          <p>
-            We propose a co-designed framework that jointly rethinks evaluation, data, and modeling to advance video retrieval toward universality—defined as robust zero-shot performance across diverse query formats (textual, composed, visual), granularities (coarse- to fine-grained), and domains (spatial, temporal, partially relevant, long-context).
-          </p>
-          <p>
-            1. Universal Video Retrieval Benchmark (UVRB).
-            We establish UVRB, a diagnostic evaluation suite comprising 16 datasets spanning 9 abilities: 3 query formats (Textual, Composed, Visual) and 6 domain-specific challenges (Coarse-Grained, Spatial, Temporal, Partially Relevant, Long-Context, and their combinations). Unlike conventional benchmarks that measure only end performance, UVRB enables fine-grained diagnosis of capability gaps and inter-task correlations.
-          </p>
-          <p>
-            2. V-SynFlow: Scalable Synthesis of High-Fidelity Training Data.
-            Guided by UVRB 's diagnostics, we introduce V-SynFlow, a multi-stage synthesis pipeline that transforms weakly annotated web videos (e.g., WebVid, InternVid) into UVRD—a high-quality dataset of 1.55 million video retrieval pairs. V-SynFlow first applies multi-granular filtering (annotation rectification, cross-modal consistency, temporal dynamics) to construct a clean asset pool. It then leverages a multimodal large language model (MLLM) to enrich semantic content with controlled emphasis on spatial, temporal, and abstract attributes. Finally, it synthesizes diverse task formats—including text-to-video, image-to-video, and text+image-to-video—by conditioning MLLM generation on visual inputs and structured prompts.
-          </p>
-          <p>
-            3. Modality Pyramid: Curriculum Learning for Generalizable Embeddings.
-            To effectively learn from UVRD 's heterogeneous tasks, we devise the Modality Pyramid, a bottom-up curriculum that exploits latent dependencies among retrieval abilities. Foundational tasks (e.g., image-video alignment) are prioritized early in training, while complex, composite tasks (e.g., long-context composed retrieval) are gradually introduced as the model 's representational capacity matures. Task scheduling is governed by an alignment-aware mechanism that estimates current task difficulty using a prober model and anneals sampling probabilities over epochs. The model—General Video Embedder (GVE), derived from Qwen2.5-VL—is trained with a symmetric InfoNCE loss, hard negative mining, and cross-device in-batch negatives, using parameter-efficient LoRA fine-tuning.
-          </p>
-          <p>
-            This tightly integrated benchmark-data-curriculum pipeline enables GVE to achieve state-of-the-art zero-shot generalization on UVRB, while revealing critical insights: (i) partially relevant retrieval is a strong proxy for overall universality; (ii) spatial and temporal reasoning remain largely disentangled; and (iii) conventional benchmarks poorly predict cross-task generalization. Our framework thus provides a principled path toward truly universal video retrieval.
-          </p>
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Methodology</h2>
+          <div class="content has-text-justified">
+            <p>
+              We propose a co-designed framework that jointly rethinks evaluation, data, and modeling to advance video retrieval toward universality—defined as robust zero-shot performance across diverse query formats (textual, composed, visual), granularities (coarse- to fine-grained), and domains (spatial, temporal, partially relevant, long-context).
+            </p>
+            <p>
+              1. <strong>Universal Video Retrieval Benchmark (UVRB).</strong>
+              We establish UVRB, a diagnostic evaluation suite comprising 16 datasets spanning 9 abilities: 3 query formats (Textual, Composed, Visual) and 6 domain-specific challenges (Coarse-Grained, Spatial, Temporal, Partially Relevant, Long-Context, and their combinations). Unlike conventional benchmarks that measure only end performance, UVRB enables fine-grained diagnosis of capability gaps and inter-task correlations.
+            </p>
+            <p>
+              2. <strong>V-SynFlow: Scalable Synthesis of High-Fidelity Training Data.</strong>
+              Guided by UVRB 's diagnostics, we introduce V-SynFlow, a multi-stage synthesis pipeline that transforms weakly annotated web videos (e.g., WebVid, InternVid) into UVRD—a high-quality dataset of 1.55 million video retrieval pairs. V-SynFlow first applies multi-granular filtering (annotation rectification, cross-modal consistency, temporal dynamics) to construct a clean asset pool. It then leverages a multimodal large language model (MLLM) to enrich semantic content with controlled emphasis on spatial, temporal, and abstract attributes. Finally, it synthesizes diverse task formats—including text-to-video, image-to-video, and text+image-to-video—by conditioning MLLM generation on visual inputs and structured prompts.
+            </p>
+            <p>
+              3. <strong>Modality Pyramid: Curriculum Learning for Generalizable Embeddings.</strong>
+              To effectively learn from UVRD 's heterogeneous tasks, we devise the Modality Pyramid, a bottom-up curriculum that exploits latent dependencies among retrieval abilities. Foundational tasks (e.g., image-video alignment) are prioritized early in training, while complex, composite tasks (e.g., long-context composed retrieval) are gradually introduced as the model 's representational capacity matures. Task scheduling is governed by an alignment-aware mechanism that estimates current task difficulty using a prober model and anneals sampling probabilities over epochs. The model—General Video Embedder (GVE), derived from Qwen2.5-VL—is trained with a symmetric InfoNCE loss, hard negative mining, and cross-device in-batch negatives, using parameter-efficient LoRA fine-tuning.
+            </p>
+            <p>
+              This tightly integrated benchmark-data-curriculum pipeline enables GVE to achieve state-of-the-art zero-shot generalization on UVRB, while revealing critical insights: (i) partially relevant retrieval is a strong proxy for overall universality; (ii) spatial and temporal reasoning remain largely disentangled; and (iii) conventional benchmarks poorly predict cross-task generalization. Our framework thus provides a principled path toward truly universal video retrieval.
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="section hero is-white">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Experiments</h2>
-        <div class="content has-text-justified">
-          All models are evaluated within UVRB under a controlled and consistent environment to ensure fairness and reproducibility. We evaluate GVE under a strictly zero-shot setting without any exposure to in-domain data during training. Although competing models may have an unfair advantage for using training data corresponding to several test sets, our results in the following two tables show clear superiority and confirm the strong generalization of GVE.
+  <section class="section hero is-white">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experiments</h2>
+          <div class="content has-text-justified">
+            All models are evaluated within UVRB under a controlled and consistent environment to ensure fairness and reproducibility. We evaluate GVE under a strictly zero-shot setting without any exposure to in-domain data during training. Although competing models may have an unfair advantage for using training data corresponding to several test sets, our results in the following two tables show clear superiority and confirm the strong generalization of GVE.
+          </div>
+          
+          <img src="static/images/uvrb_dataset_table.jpg" alt="Video retrieval performance on UVRB datasets" loading="lazy"/>
+          <h2 class="subtitle is-6 has-text-centered">
+            Video retrieval performance for datasets of UVRB. The AVG values are averaged over 16 datasets. For each column: highest score is bolded, second-highest is underlined. Metrics: R@1 (Recall@1), R@10 (Recall@10), P@1 (Precision@1).
+          </h2>
+          
+          <img src="static/images/uvrb_ability_table.jpg" alt="Video retrieval performance by ability" loading="lazy"/>
+          <h2 class="subtitle is-6 has-text-centered">
+            Video retrieval performance by specific abilities (tasks and domains) on UVRB. The AVG values are averaged over tasks (textual (TXT), composed (CMP), visual (VIS)) and domains (coarse-grained (CG), fine-grained (FG), long-context (LC)) video retrieval tasks. Besides, we provide sub-domain results, including spatial (S), temporal (T), partially relevant (PR). For each column: highest score is bolded, second-highest is underlined.
+          </h2>
         </div>
-        
-        <img src="static/images/uvrb_dataset_table.jpg" alt="First research result visualization" loading="lazy"/>
-        <h2 class="subtitle is-6 has-text-centered">
-          Video retrieval performance for datasets of UVRB. The AVG values are averaged over 16 datasets. For each column: highest score is bolded, second-highest is underlined. Metrics: R@1 (Recall@1), R@10 (Recall@10), P@1 (Precision@1).
-        </h2>
-        
-        <img src="static/images/uvrb_ability_table.jpg" alt="Second research result visualization" loading="lazy"/>
-        <h2 class="subtitle is-6 has-text-centered">
-          Video retrieval performance by specific abilities (tasks and domains) on UVRB. The AVG values are averaged over tasks (textual (TXT), composed (CMP), visual (VIS)) and domains (coarse-grained (CG), fine-grained (FG), long-context (LC)) video retrieval tasks. Besides, we provide sub-domain results, including spatial (S), temporal (T), partially relevant (PR). For each column: highest score is bolded, second-highest is underlined.
-        </h2>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-
-
-<!--BibTex citation -->
+  <!--BibTeX citation -->
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <div class="bibtex-header">
@@ -364,37 +368,27 @@
       </div>
       <pre id="bibtex-code"><code>@inproceedings{guo2025general-video-embedding,
   title={Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum},
-  author={Zhuoning Guo, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie and Xiaowen Chu},
+  author={Guo, Zhuoning and Li, Mingxin and Zhang, Yanzhao and Long, Dingkun and Xie, Pengjun and Chu, Xiaowen},
   year={2025}
 }</code></pre>
     </div>
-</section>
-<!--End BibTex citation -->
-
+  </section>
+  <!--End BibTeX citation -->
 
   <footer class="footer">
-  <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-8">
-        <div class="content">
-
-          <p>
-            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
-            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>.
-          </p>
-
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the&nbsp;<a href="https://nerfies.github.io" target="_blank">Nerfies</a>&nbsp;project page.
+              You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</footer>
+  </footer>
 
-<!-- Statcounter tracking code -->
-  
-<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
-
-    <!-- End of Statcounter Code -->
-
-  </body>
-  </html>
+</body>
+</html>
