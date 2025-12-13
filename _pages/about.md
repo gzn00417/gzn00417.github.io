@@ -10,19 +10,19 @@ redirect_from:
 
 ## 👋 Welcome to [Zhuoning Guo (郭茁宁)](https://gzn00417.github.io/) 's homepage!
 
-🎓 I am currently a $4^{th}$-year Ph.D. student at [AI Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022.
+🎓 I am currently a final year Ph.D. student at [AI Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022.
 
-🔬 My current research interests include multimodal LLM, information retrieval, and video understanding.
+🔬 My current research interests include multimodal LLM, information retrieval, recommender systems, and video understanding.
 
 💼 Now, I am a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Previously, I was a visiting student at [HKUST](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [pdf file](https://gzn00417.github.io/files/CV-GuoZhuoning-20250509.pdf) for more information.
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [pdf file](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf) for more information (updated on Dec. 13th).
 
 
-<!-- # Looking for Opportunities
-> **<span style="color:red"> I expect to graduate at 2026 Fall or 2027 Spring. I will be open to full-time industrial researcher and research intern from 2026 Spring. If you have opportunities, please do not hesitate to contact me. Thank you! </span>** -->
+# Looking for Opportunities
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in RecSys, Search, Ad, or Foundation Model. I expect to graduate at 2026 Fall or 2027 Spring. Positions of research intern are also considered before graduation after May, 2026. If you have opportunities, please do not hesitate to contact me. Thank you! </span>**
 
 
 # 📰 News
@@ -89,4 +89,4 @@ redirect_from:
 
 ---
 
-> *The page is update at November 6th, 2025.*
+> *The page is update at December 12th, 2025.*
