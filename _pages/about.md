@@ -18,11 +18,11 @@ redirect_from:
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [pdf file](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf) for more information (updated on Dec. 13th).
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf) for more information (updated on Dec. 13th).
 
 
 # Looking for Opportunities
-> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in RecSys, Search, Ad, or Foundation Model. I expect to graduate at 2026 Fall or 2027 Spring. Positions of research intern are also considered before graduation after May, 2026. If you have opportunities, please do not hesitate to contact me. Thank you! </span>**
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in RecSys, Search, or Foundation Model. I expect to graduate at 2026 Fall or 2027 Spring. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf) and contact me. Thank you! </span>**
 
 
 # 📰 News
@@ -34,13 +34,13 @@ redirect_from:
 - \[2025.02\] Our work on labor migration modeling is accepted by **PAKDD 2025 (Oral)**. Thanks to my co-authors from HKUST(GZ), Baidu, and CAS.
 - \[2024.08\] I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
 - \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024 (Oral)**. Thanks to my co-authors from HKUST(GZ) and HKUST.
-- \[2024.01\] I move from HKUST(GZ) to HKUST, Hong Kong SAR, China, to continue my Ph.D. study.
-- \[2023.12\] Our work on skill demand-supply joint prediction is accepted by **AAAI 2024 (Oral)**. Thanks to my co-authors from HKUSTGZ and Boss Inc.
 
 <details>
 
 <summary>Past News</summary>
 
+- \[2024.01\] I move from HKUST(GZ) to HKUST, Hong Kong SAR, China, to continue my Ph.D. study.
+- \[2023.12\] Our work on skill demand-supply joint prediction is accepted by **AAAI 2024 (Oral)**. Thanks to my co-authors from HKUSTGZ and Boss Inc.
 - \[2022.11\] Our work on human mobility modeling in COVID-19 is accepted by **AAAI 2023**. Thanks to my co-authors from HKUST and Tencent AI Lab!
 - \[2022.09\] I officially start my Ph.D. research journey at HKUSTGZ!
 - \[2022.06\] I graduate from Harbin Institute of Technology and receive BEng at Faculty of Computing. Thanks to all my past advisors, friends and teammates from HIT!
@@ -89,4 +89,4 @@ redirect_from:
 
 ---
 
-> *The page is update at December 12th, 2025.*
+> *The page is update at December 15th, 2025.*

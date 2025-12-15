@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Full CV [[pdf]](https://gzn00417.github.io/files/CV-GuoZhuoning-20250509.pdf)
+## Full CV [[pdf]](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf)
 
 > Updated at May 9th, 2025
 
