@@ -37,7 +37,7 @@ E-Mail:
 
 ## Internships
 
-- 2025.03-Now Alibaba Tongyi Lab - Research Intern
+- 2025.03-2026.01 Alibaba Tongyi Lab - Research Intern
   - Topics: Post-training Qwen embedding for multimodal retrieval
 - 2024.05-2025.01 Baidu Recommendation Architecture Department - Research Intern
   - Topics: Information retrieval for industrial recommender system
