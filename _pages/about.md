@@ -14,7 +14,7 @@ redirect_from:
 
 🔬 My current research interests include multimodal LLM, information retrieval, and search agent.
 
-💼 Now, I am a research intern at [NLP Group](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Previously, I was a visiting student at [HKUST](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
+💼 Now, I am a research intern at [DeepResearch Team](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Previously, I was a visiting student at [HKUST](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
@@ -22,7 +22,7 @@ redirect_from:
 
 
 # Looking for Opportunities
-> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in (Agentic) Search, RecSys, or Foundation Model. I expect to graduate at 2026 Fall or 2027 Spring. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20251123.pdf) and contact me. Thank you! </span>**
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026 or Jan, 2027. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20260115.pdf) and contact me. Thank you! </span>**
 
 
 # 📰 News
@@ -34,7 +34,6 @@ redirect_from:
 - \[2025.06\] Congrats to our team for releasing [Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding), the state-of-the-art text embedding and reranking models.
 - \[2025.03\] I join Tongyi Lab as a research intern, focusing on improving multimodal embedding for [Qwen](https://qwenlm.github.io/) model series.
 - \[2025.02\] Our work on labor migration modeling is accepted by **PAKDD 2025 (Oral)**. Thanks to my co-authors from HKUST(GZ), Baidu, and CAS.
-- \[2024.08\] I move back to HKUST(GZ), Guangzhou, China, to continue my Ph.D. study.
 - \[2024.05\] Our work on hierarchical federated graph learning is accepted by **SIGKDD 2024 (Oral)**. Thanks to my co-authors from HKUST(GZ) and HKUST.
 
 <details>
@@ -73,14 +72,15 @@ redirect_from:
 - 🔥 **[Arxiv]** **Zhuoning Guo**, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Xiaowen Chu. Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum. [\[Paper\]](https://arxiv.org/abs/2510.27571) [\[Project Page\]](https://gzn00417.github.io/GVE/) [\[HuggingFace\]](https://huggingface.co/collections/Alibaba-NLP/gve)
 - **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning. [\[Paper\]](https://arxiv.org/abs/2411.02003)
 - **[Arxiv]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting. [\[Paper\]](https://arxiv.org/abs/2409.19545)
+- **[Arxiv]** Tingyu Song, Yanzhao Zhang, Mingxin Li, **Zhuoning Guo**, Dingkun Long, Pengjun Xie, Siyue Zhang, Yilun Zhao, Shu Wu. Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing. [\[Paper\]](https://arxiv.org/abs/2601.16125)
 
 
 # 🛠️ Services
 
 - Session Chair of SIGKDD 2025
 - Reviewer of SIGKDD (Outstanding), NeurIPS, ICLR, WebConf, IJCAI and ICDM conferences
-- Reviewer of TOIS and Information Science journals
-- Teaching Assistant of AIAA 5028 Machine Learning on Graphs at HKUST(GZ)
+- Reviewer of TOIS, TCSVT, Information Science journals
+- Teaching Assistant of AIAA 5028 Machine Learning on Graphs and UFUG 2602 Data Structure and Algorithm Design at HKUST(GZ)
 - Chair of Academic Club of MassiveDataLab, President of Chess Club, Captain of Football Team of CS Dept. at HIT
 
 
@@ -91,4 +91,4 @@ redirect_from:
 
 ---
 
-> *The page is update at January 15th, 2026.*
+> *The page is update at February 3rd, 2026.*
