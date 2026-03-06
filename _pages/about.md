@@ -12,17 +12,17 @@ redirect_from:
 
 🎓 I am currently a final year Ph.D. student at [AI Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97). I received my bachelor degree of software engineering from [Computing Faculty](http://cs.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in 2022.
 
-🔬 My current research interests include multimodal LLM, information retrieval, and search agent.
+🔬 My current research interests include multimodality, retrieval, agents.
 
-💼 Now, I am a research intern at [DeepResearch Team](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Previously, I was a visiting student at [HKUST](https://hkust.edu.hk/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
+💼 Recently, I finish my research internship at [DeepResearch Team](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV-GuoZhuoning-20260115.pdf) for more information (updated on Jan. 15th, 2026).
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV-GuoZhuoning-20260306.pdf) for more information (updated on Mar. 6th, 2026).
 
 
 # Looking for Opportunities
-> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026 or Jan, 2027. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20260115.pdf) and contact me. Thank you! </span>**
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20260306.pdf) and contact me. Thank you! </span>**
 
 
 # 📰 News
@@ -69,10 +69,12 @@ redirect_from:
 
 ### Preprints
 
+- 🔥 **[Arxiv]** **Zhuoning Guo**, Tingyu Song, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Xiaowen Chu. Demystifying Spatial-temporal Scaling Laws of Multimodal Video Embeddings.
 - 🔥 **[Arxiv]** **Zhuoning Guo**, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Xiaowen Chu. Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum. [\[Paper\]](https://arxiv.org/abs/2510.27571) [\[Project Page\]](https://gzn00417.github.io/GVE/) [\[HuggingFace\]](https://huggingface.co/collections/Alibaba-NLP/gve)
 - **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning. [\[Paper\]](https://arxiv.org/abs/2411.02003)
 - **[Arxiv]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting. [\[Paper\]](https://arxiv.org/abs/2409.19545)
 - **[Arxiv]** Tingyu Song, Yanzhao Zhang, Mingxin Li, **Zhuoning Guo**, Dingkun Long, Pengjun Xie, Siyue Zhang, Yilun Zhao, Shu Wu. Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing. [\[Paper\]](https://arxiv.org/abs/2601.16125)
+- **[Arxiv]** Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, **Zhuoning Guo**, Bosi Zhang, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding. VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph. [\[Paper\]](https://arxiv.org/abs/2602.12735)
 
 
 # 🛠️ Services
@@ -91,4 +93,4 @@ redirect_from:
 
 ---
 
-> *The page is update at February 3rd, 2026.*
+> *The page is update at March 6th, 2026.*
