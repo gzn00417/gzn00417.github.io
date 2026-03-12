@@ -18,11 +18,11 @@ redirect_from:
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV-GuoZhuoning-20260306.pdf) for more information (updated on Mar. 6th, 2026).
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) for more information (updated on Mar. 6th, 2026).
 
 
 # Looking for Opportunities
-> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV-GuoZhuoning-20260306.pdf) and contact me. Thank you! </span>**
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) and contact me. Thank you! </span>**
 
 
 # 📰 News
