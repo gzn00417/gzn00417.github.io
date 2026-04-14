@@ -18,15 +18,16 @@ redirect_from:
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won 2 First Prize in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) for more information (updated on Mar. 6th, 2026).
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file (English)](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) or [PDF file (Chinese)](https://gzn00417.github.io/files/CV_GuoZhuoning_CN.pdf) for more information (updated on Apr. 8th, 2026).
 
 
 # Looking for Opportunities
-> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) and contact me. Thank you! </span>**
+> **<span style="color:red"> I will be on job market from 2026 Spring, open to full-time industrial researcher in Search, RecSys, or Foundation Model (Multimodal/Agent). I expect to graduate at Oct, 2026. Positions of research intern are also considered before graduation (on-site after May, 2026). If you have related opportunities, please do not hesitate to see my [CV (EN)](https://gzn00417.github.io/files/CV_GuoZhuoning.pdf) or [CV (CN)](https://gzn00417.github.io/files/CV_GuoZhuoning_CN.pdf) and contact me. Thank you! </span>**
 
 
 # 📰 News
 
+- 🔥 \[2026.02\] We release [VimRAG](https://github.com/Alibaba-NLP/VRAG), the multimodal retrieval-augmented generation framework. See the [WeChat Post](https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA) for details.
 - 🔥 \[2026.01\] Our work on web-scale recommendation and information retrieval is accepted by WebConf 2026 Industry Track. Thanks to my co-authors from HKUST(GZ) and Baidu.
 - 🔥 \[2026.01\] Congrats to our team for releasing [Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding), the state-of-the-art multimodal embedding and reranking models. My work **[GVE](https://gzn00417.github.io/GVE/)** lays the foundation of video embedding ability for universal video retrieval tasks.
 - 🔥 \[2025.11\] We release the *first and state-of-the-art* video-centric MLLM-based embedding model, **[GVE Series](https://gzn00417.github.io/GVE/)** for universal video retrieval. Thanks to my kind supervisor and supportive co-authors from Tongyi Lab! See our open-source models ([GVE-3B](https://huggingface.co/Alibaba-NLP/GVE-3B) and [GVE-7B](https://huggingface.co/Alibaba-NLP/GVE-7B)) and benchmark ([UVRB](https://huggingface.co/datasets/Alibaba-NLP/UVRB)) if you are interested.
@@ -74,7 +75,7 @@ redirect_from:
 - **[Arxiv]** **Zhuoning Guo**, Ruiqian Han, Hao Liu. Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning. [\[Paper\]](https://arxiv.org/abs/2411.02003)
 - **[Arxiv]** **Zhuoning Guo**, Hao Liu, Le Zhang, Qi Zhang, Hengshu Zhu, Hui Xiong. Convergence-aware Clustered Federated Graph Learning Framework for Collaborative Inter-company Labor Market Forecasting. [\[Paper\]](https://arxiv.org/abs/2409.19545)
 - **[Arxiv]** Tingyu Song, Yanzhao Zhang, Mingxin Li, **Zhuoning Guo**, Dingkun Long, Pengjun Xie, Siyue Zhang, Yilun Zhao, Shu Wu. Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing. [\[Paper\]](https://arxiv.org/abs/2601.16125)
-- **[Arxiv]** Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, **Zhuoning Guo**, Bosi Zhang, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding. VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph. [\[Paper\]](https://arxiv.org/abs/2602.12735)
+- 🔥 **[Arxiv]** Qiuchen Wang, Shihang Wang, Yu Zeng, Qiang Zhang, Fanrui Zhang, **Zhuoning Guo**, Bosi Zhang, Wenxuan Huang, Lin Chen, Zehui Chen, Pengjun Xie, Ruixue Ding. VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph. [\[Paper\]](https://arxiv.org/abs/2602.12735) [\[Code\]](https://github.com/Alibaba-NLP/VRAG) [\[HuggingFace\]](https://huggingface.co/collections/Alibaba-NLP/vrag)
 
 
 # 🛠️ Services
@@ -93,4 +94,4 @@ redirect_from:
 
 ---
 
-> *The page is update at March 6th, 2026.*
+> *The page is update at Apr 14th, 2026.*
