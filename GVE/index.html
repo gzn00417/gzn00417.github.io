@@ -39,7 +39,7 @@
   <meta name="citation_author" content="Long, Dingkun">
   <meta name="citation_author" content="Xie, Pengjun">
   <meta name="citation_author" content="Chu, Xiaowen">
-  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_publication_date" content="2026">
   <meta name="citation_pdf_url" content="https://gzn00417.github.io/GVE/static/pdfs/arXiv_GVE.pdf">
   
   <!-- Additional SEO -->
@@ -160,14 +160,20 @@
       }
     ],
     "datePublished": "2025-10-31",
+    "dateModified": "2026-07-10",
     "publisher": {
       "@type": "Organization",
-      "name": "arXiv"
+      "name": "ACM"
+    },
+    "publication": {
+      "@type": "PublicationEvent",
+      "name": "ACM International Conference on Multimedia",
+      "alternateName": "ACM MM 2026"
     },
     "url": "https://gzn00417.github.io/GVE",
     "image": "https://gzn00417.github.io/GVE/static/images/Tongyi.png",
     "keywords": ["Video Retrieval", "Multimodal Large Language Models", "Video Embedding", "zero-shot generalization", "curriculum learning"],
-    "abstract": "The prevailing video retrieval paradigm is structurally misaligned, as narrow benchmarks incentivize correspondingly limited data and single-task training. Therefore, universal capability is suppressed due to the absence of a diagnostic evaluation that defines and demands multi-dimensional generalization. To break this cycle, we introduce a framework built on the co-design of evaluation, data, and modeling. First, we establish the Universal Video Retrieval Benchmark (UVRB), a suite of 16 datasets designed not only to measure performance but also to diagnose critical capability gaps across tasks and domains. Second, guided by UVRB's diagnostics, we introduce a scalable synthesis workflow that generates 1.55 million high-quality pairs to populate the semantic space required for universality. Finally, we devise the Modality Pyramid, a curriculum that trains our General Video Embedder (GVE) by explicitly leveraging the latent interconnections within our diverse data. Extensive experiments show GVE achieves state-of-the-art zero-shot generalization on UVRB. In particular, our analysis reveals that popular benchmarks are poor predictors of general ability and that partially relevant retrieval is a dominant but overlooked scenario. Overall, our co-designed framework provides a practical path to escape the limited scope and advance toward truly universal video retrieval.",
+    "abstract": "The prevailing video retrieval evaluation suffers from fragmented benchmarks that obscure true model generalization. To diagnose this limitation, we conduct a structured assessment across 16 established public datasets, revealing critical capability gaps, particularly pronounced deficiencies in fine-grained, temporal, and partially relevant video retrieval. The discoveries directly motivate the holistic design of our framework: V-SynFlow synthesizes 1.55 million high-quality, multi-task video-text pairs explicitly targeting the uncovered deficiencies, while the Modality Pyramid curriculum trains the General Video Embedder (GVE) by leveraging inherent task hierarchies for progressive learning. GVE achieves state-of-the-art zero-shot performance across diverse scenarios. Our analysis further demonstrates that conventional benchmarks poorly correlate with holistic retrieval capability, and identifies partially relevant retrieval as a pivotal yet overlooked real-world challenge. This work establishes a practical pathway toward universal video retrieval by tightly coupling evaluation diagnostics with structured training on diverse synthesized data.",
     "isAccessibleForFree": true,
     "license": "https://creativecommons.org/licenses/by/4.0/",
     "mainEntity": {
@@ -292,7 +298,7 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              The prevailing video retrieval paradigm is structurally misaligned, as narrow benchmarks incentivize correspondingly limited data and single-task training. Therefore, universal capability is suppressed due to the absence of a diagnostic evaluation that defines and demands multi-dimensional generalization. To break this cycle, we introduce a framework built on the co-design of evaluation, data, and modeling. First, we establish the Universal Video Retrieval Benchmark (UVRB), a suite of 16 datasets designed not only to measure performance but also to diagnose critical capability gaps across tasks and domains. Second, guided by UVRB's diagnostics, we introduce a scalable synthesis workflow that generates 1.55 million high-quality pairs to populate the semantic space required for universality. Finally, we devise the Modality Pyramid, a curriculum that trains our General Video Embedder (GVE) by explicitly leveraging the latent interconnections within our diverse data. Extensive experiments show GVE achieves state-of-the-art zero-shot generalization on UVRB. In particular, our analysis reveals that popular benchmarks are poor predictors of general ability and that partially relevant retrieval is a dominant but overlooked scenario. Overall, our co-designed framework provides a practical path to escape the limited scope and advance toward truly universal video retrieval.
+              The prevailing video retrieval evaluation suffers from fragmented benchmarks that obscure true model generalization. To diagnose this limitation, we conduct a structured assessment across 16 established public datasets, revealing critical capability gaps, particularly pronounced deficiencies in fine-grained, temporal, and partially relevant video retrieval. The discoveries directly motivate the holistic design of our framework: V-SynFlow synthesizes 1.55 million high-quality, multi-task video-text pairs explicitly targeting the uncovered deficiencies, while the Modality Pyramid curriculum trains the General Video Embedder (GVE) by leveraging inherent task hierarchies for progressive learning. GVE achieves state-of-the-art zero-shot performance across diverse scenarios. Our analysis further demonstrates that conventional benchmarks poorly correlate with holistic retrieval capability, and identifies partially relevant retrieval as a pivotal yet overlooked real-world challenge. This work establishes a practical pathway toward universal video retrieval by tightly coupling evaluation diagnostics with structured training on diverse synthesized data.
             </p>
           </div>
         </div>
@@ -375,14 +381,12 @@
           <span class="copy-text">Copy</span>
         </button>
       </div>
-      <pre id="bibtex-code"><code>@misc{guo2025gve,
-  title={Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum}, 
+      <pre id="bibtex-code"><code>@inproceedings{guo2026gve,
+  title={Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum},
   author={Zhuoning Guo and Mingxin Li and Yanzhao Zhang and Dingkun Long and Pengjun Xie and Xiaowen Chu},
-  year={2025},
-  eprint={2510.27571},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2510.27571}, 
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  year={2026},
+  url={https://arxiv.org/abs/2510.27571},
 }</code></pre>
     </div>
   </section>
