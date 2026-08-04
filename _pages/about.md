@@ -27,6 +27,7 @@ redirect_from:
 
 # 📰 News
 
+- 🔥 \[2026.07\] I successfully passed my PhD defense! Sincere thanks to my supervisors Prof. Xiaowen Chu and Prof. Renjing Xu, and all committee members.
 - 🔥 \[2026.07\] Our work, GVE, for universal video retrieval is accepted by **ACM MM 2026**! See the [project page](https://gzn00417.github.io/GVE/) and [HuggingFace collection](https://huggingface.co/collections/Alibaba-NLP/gve).
 - \[2026.05\] I join [Xiaohongshu](https://www.xiaohongshu.com) AllSpark Team as an algorithm R&D intern, working on Dots Agent post-training.
 - \[2026.05\] Our work on VimRAG for multimodal RAG is accepted by **ICML 2026**.
