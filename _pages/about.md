@@ -14,11 +14,11 @@ redirect_from:
 
 🔬 My current research interests include **multimodality, retrieval, agents**.
 
-💼 I am currently an algorithm R&D intern at AllSpark Team, [Xiaohongshu](https://www.xiaohongshu.com), working on post-training of Dots Agent. Before that, I finished my research internship at [DeepResearch Team](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
+💼 I am currently an algorithm R&D intern at AllSpark Team, [Xiaohongshu](https://www.xiaohongshu.com), working on Dots Agent across post-training, mid-training, and generative search. Before that, I finished my research internship at [DeepResearch Team](https://huggingface.co/Alibaba-NLP), [Tongyi Lab](https://tongyi.aliyun.com), [Alibaba Group](https://www.alibabagroup.com/). Before starting my Ph.D. career, I was a research intern at [Microsoft Research Asia](https://www.msra.cn/) and [Baidu Research](http://research.baidu.com/) in the third and final year of undergraduate period.
 
 💻 For my coding passions, I spent years on [National Olympiad in Informatics (NOI)](https://www.noi.cn/) and won **2 First Prize** in Fujian Province (2014 & 2016) during junior and senior high schools. With the help of these awards, I am honored to obtain early admission from Independent Recruitment of HIT in 2018.
 
-📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file (English)](https://gzn00417.github.io/files/CV-GuoZhuoning-EN.pdf) or [PDF file (Chinese)](https://gzn00417.github.io/files/CV-GuoZhuoning-CN.pdf) for more information (updated on Jul. 12th, 2026).
+📄 See my [curriculum vitae page](https://gzn00417.github.io/cv/) or [PDF file (English)](https://gzn00417.github.io/files/CV-GuoZhuoning-EN.pdf) or [PDF file (Chinese)](https://gzn00417.github.io/files/CV-GuoZhuoning-CN.pdf) for more information (updated on Aug. 4th, 2026).
 
 
 # Looking for Opportunities
@@ -100,4 +100,4 @@ redirect_from:
 
 ---
 
-> *Last updated: Jul 12, 2026.*
+> *Last updated: Aug 4, 2026.*

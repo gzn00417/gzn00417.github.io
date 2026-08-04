@@ -36,16 +36,16 @@ E-Mail:
 ## Internships
 
 - 2026.05- Xiaohongshu AllSpark Team - Algorithm R&D Intern
-  - Topics: Post-training of multimodal search agent
+  - Topics: Generative search and model behavior alignment
 - 2025.03-2026.01 Alibaba Tongyi Lab - Research Intern
-  - Topics: Post-training Qwen embedding for multimodal retrieval
-- 2024.05-2025.01 Baidu Recommendation Architecture Department - Research Intern
-  - Topics: Information retrieval for industrial recommender system
+  - Topics: Multimodal video representation learning
+- 2024.02-2025.02 Baidu Recommendation Architecture Department - Research Intern
+  - Topics: Information retrieval for web-scale recommender systems
 - 2021.10-2022.08 Baidu Research - Research Intern
-  - Topics: Spatial-temporal modeling for business intelligence
-- 2021.06-2021.10 HKUST & Tencent - Remote Research Intern
+  - Topics: Spatiotemporal modeling for business intelligence
+- 2021.05-2021.10 Tencent AI Lab - Research Intern
   - Topics: Graph learning for social science
-- 2020.11-2021.04 Microsoft Research Asia (MSRA) DKI Group - Research Intern
+- 2020.11-2021.04 Microsoft Research Asia (MSRA) - Research Intern
   - Topics: Computer vision and graphics for design intelligence
 
 ## Visits
